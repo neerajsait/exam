@@ -1,37 +1,27 @@
 # exam
 
-> JFSD End Semester Lab Exam project built with Java — KL University
+> A Java and Maven project for a JFSD end-semester lab exercise.
 
-Built with Java and focused on academic, exam, java, jfsd.
+## Overview
 
-## About this project
+This repository contains an academic Java project, Maven configuration, and source folders under `src/main` and `src/test`. The current README identifies the student and course context but does not describe application features.
 
-This repository is part of **Neeraj Sai's** growing collection of software projects, experiments, and learning builds. It reflects a practical, curious approach to creating useful products and understanding how they work under the hood.
+## What’s in this repo
+
+- Java source and resources
+- Maven build configuration and wrapper
+- Test source directory
+
+## Stack
+
+Java and Maven.
 
 ## Getting started
 
-Clone the repository and follow the setup instructions for the project's framework or language:
+1. Install a JDK supported by the project’s `pom.xml`.
+2. Build or run the available tests with `./mvnw package` or `./mvnw test` (Windows: `mvnw.cmd`).
+3. Open the project in a Java IDE to inspect its entry point and resources.
 
-```bash
-git clone https://github.com/neerajsait/exam.git
-cd exam
-```
+## Notes
 
-Check the project files for the available run commands and configuration requirements.
-
-## Links
-
-[Repository](https://github.com/neerajsait/exam)
-
-## Author
-
-**Tiruveedhi Neeraj Venkata Sai**
-
-- GitHub: [@neerajsait](https://github.com/neerajsait)
-- Portfolio: [neeraj's portfolio](https://github.com/neerajsait/portfoliomain)
-
-
-## Existing project documentation
-
-id : 2200030957
-name : Tiruveedhi Neeraj Venkata Sai
+The repository is identified as a JFSD lab exercise; its current files do not describe the application's purpose.
